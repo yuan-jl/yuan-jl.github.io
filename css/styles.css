@@ -3996,7 +3996,7 @@ background: linear-gradient(-90deg, rgba(127,25,52,0.8) 0%, rgba(84,41,50,0.8) 2
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #7F1934;
 }
 
 .nav-fill > .nav-link,
@@ -11333,10 +11333,10 @@ hr.divider-light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #7F1934;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #7F1934 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -11367,13 +11367,13 @@ hr.divider-light {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #f4623a;
+    color: #7F1934;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #7F1934;
   }
 }
 
